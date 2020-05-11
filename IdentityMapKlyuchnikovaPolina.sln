@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityMapKlyuchnikovaPolina", "IdentityMapKlyuchnikovaPolina\IdentityMapKlyuchnikovaPolina.csproj", "{99B4E355-82E9-491D-B2F6-3D2A68715D74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99B4E355-82E9-491D-B2F6-3D2A68715D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B4E355-82E9-491D-B2F6-3D2A68715D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B4E355-82E9-491D-B2F6-3D2A68715D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B4E355-82E9-491D-B2F6-3D2A68715D74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59970478-4E5C-412B-83F1-1811590257D4}
+	EndGlobalSection
+EndGlobal
